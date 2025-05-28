@@ -285,3 +285,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
   console.log('InnovateTech landing page initialized successfully! 🚀');
 });
+
